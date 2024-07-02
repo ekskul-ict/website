@@ -63,7 +63,7 @@ html {
 }
 
 .text-contenthome-up {
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 650;
     color:rgb(209, 170, 54);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -156,7 +156,7 @@ html {
 
 .p-content-about {
     font-size: 17px;
-    font-weight: 450;
+    font-weight: 600;
     text-align: center;
 }
 
@@ -224,14 +224,19 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
+    color:#0e0e0e
 }
 
 .wa-text {
     font-size: 20px;
+    font-weight: 700;
+    color:#317c38
 }
 
 .ig-text {
     font-size: 20px;
+    font-weight: 700;
+    color: #9513a9;
 }
 
 .a-img-contact {
